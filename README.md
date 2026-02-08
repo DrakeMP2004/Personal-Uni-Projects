@@ -31,7 +31,7 @@ I enjoy building practical applications and problem-solving research that combin
 - Relearn basic IT practicals
 - Improving React project structure (components, reusability, folder architecture)
 - Building stronger backend fundamentals (APIs + databases)
-- Setting up more UI Prototypes for finalising in Figma Design
+- Setting up more UI Prototypes for finalising
 - Practicing coding interview patterns (arrays, hashing, recursion, OOP)
 
 ---
