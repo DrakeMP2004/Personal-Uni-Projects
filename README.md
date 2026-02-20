@@ -11,7 +11,7 @@
 I'm a 3rd year **Bachelor’s Computer Science student** from Maynooth University actively looking for an internship.  
 I enjoy building practical applications and problem-solving research that combine **clean code, good design, and real-world usability**.
 
-- 🎯 Currently focused on: **UI/UX Design, Web Development, Database Design and Software Engineering fundamentals**
+- 🎯 Currently focused on: **UI/UX Design, Web Development, Database Design and Data Analytics fundamentals**
 - 🧠 Interested in: **Frontend Engineering, UI/UX, Data and Information Technology**
 - ✅ Goal: contribute to real teams, ship real features, and grow fast in industry
 
@@ -29,10 +29,11 @@ I enjoy building practical applications and problem-solving research that combin
 
 ## 📈 What I'm Working On Right Now
 - Relearn basic IT practicals
-- Improving React project structure (components, reusability, folder architecture)
+- Improving web project structure
 - Building stronger backend fundamentals (APIs + databases)
 - Setting up more UI Prototypes for finalising
-- Practicing coding interview patterns (arrays, hashing, recursion, OOP)
+- Practicing coding interview patterns
+- Checking and building data trends
 
 ---
 
